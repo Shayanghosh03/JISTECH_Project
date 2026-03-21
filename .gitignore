@@ -1,0 +1,7 @@
+damage_model.h5
+train/
+test/
+*,tar
+*.tar
+*.keras
+.ipynb_checkpoints/
